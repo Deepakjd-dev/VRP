@@ -49,7 +49,7 @@ The objective is to **minimize the total distance traveled** and **ensure a bala
    ```
 3. **Run the Python script**
    ```bash
-   python vrp_ga.py
+   python VRP.py
    ```
 4. **Output**:
    - **Plots the optimized vehicle routes** 📍
