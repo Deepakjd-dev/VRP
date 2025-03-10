@@ -41,7 +41,7 @@ The objective is to **minimize the total distance traveled** and **ensure a bala
    ```bash
    git clone https://github.com/Deepakjd-dev/VRP.git
    
-   cd vrp-genetic-algorithm
+   cd VRP
    ```
 2. **Install dependencies**
    ```bash
