@@ -39,7 +39,8 @@ The objective is to **minimize the total distance traveled** and **ensure a bala
 ## 📌 How to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/vrp-genetic-algorithm.git
+   git clone https://github.com/Deepakjd-dev/vrp-genetic-algorithm.git
+   
    cd vrp-genetic-algorithm
    ```
 2. **Install dependencies**
@@ -69,7 +70,7 @@ The objective is to **minimize the total distance traveled** and **ensure a bala
 🔹 Deploy as a **web application** for interactive route planning  
 
 ## 🏆 Contributors
-👨‍💻 **Your Name** – [GitHub Profile](https://github.com/your-username)
+👨‍💻 **Your Name** – [GitHub Profile](https://github.com/Deepakjd-dev)
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify!
